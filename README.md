@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Anthonykhl
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning python programming
-- 💞️ I’m looking to collaborate on cyber security 
+
 - 📫 How to reach me 
 
 <!---
